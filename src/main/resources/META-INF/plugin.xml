@@ -27,7 +27,7 @@
         <notificationGroup id="JBang Success" icon="/icons/jbang-16x16.png" displayType="BALLOON" isLogByDefault="true"/>
         <notificationGroup id="JBang Info" icon="/icons/jbang-16x16.png" displayType="BALLOON" isLogByDefault="true"/>
         <annotator language="JAVA" implementationClass="dev.jbang.idea.highlight.JBangDirectiveHighlighterAnnotator"/>
-        <toolWindow id="JBang" icon="/icons/jbang-16x16.png" anchor="right"
+        <toolWindow id="JBang" icon="/icons/jbang-16x16-white.svg" anchor="right"
                     factoryClass="dev.jbang.idea.ui.JBangToolWindowFactory"/>
         <moduleType id="JBang_MODULE" implementationClass="dev.jbang.idea.module.JBangModuleType"/>
         <fileBasedIndex implementation="dev.jbang.idea.file.JBangScriptFileIndex"/>
